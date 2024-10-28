@@ -17,8 +17,12 @@ Ini adalah panduan untuk menginstal dan menjalankan Telegram Bot yang dibuat men
    📥 Jalankan perintah berikut di terminal:
    
    ```npm install
+   npm install
 3. **Masukan Token Bot Telegram Kamu** 
    ```BOT_TOKEN=YourTelegramBotToken
+   BOT_TOKEN=YourTelegramBotToken
+
 4. **Run**
     ```npm run bot
+    npm run bot
 
